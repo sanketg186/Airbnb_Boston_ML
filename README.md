@@ -30,6 +30,6 @@ This folder contains to jupyter notebooks.
 4. **Data**: Data files.
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@sanketg186/insights-into-the-boston-airbnb-29eabcc20ba7).
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 Must give credit to Airbnb and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).
